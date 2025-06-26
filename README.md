@@ -1,3 +1,3 @@
-
-[readme.docx](https://github.com/user-attachments/files/20924200/readme.docx)
-[readme.docx](https://github.com/user-attachments/files/20924200/readme.docx)
+# SPI- Module
+[readme.pdf](https://github.com/user-attachments/files/20924220/readme.pdf)
+[readme.pdf](https://github.com/user-attachments/files/20924220/readme.pdf)
